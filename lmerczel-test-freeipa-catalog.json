@@ -1,0 +1,54 @@
+{
+  "images": {
+    "freeipa-images": [
+      {
+        "created": 1619169761,
+        "date": "2021-04-23",
+        "description": "Official Cloudbreak image",
+        "images": {
+          "aws": {
+            "af-south-1": "ami-0717b7d1e5dbf2be9",
+            "ap-northeast-1": "ami-0a1ba95cb75d6e464",
+            "ap-northeast-2": "ami-0dc98ddf8cb009280",
+            "ap-south-1": "ami-030abe602cfdc4cc6",
+            "ap-southeast-1": "ami-0bcd11b9b3fc72c20",
+            "ap-southeast-2": "ami-03a4b2de9ec53199a",
+            "ca-central-1": "ami-0045b2238a36ce30d",
+            "eu-central-1": "ami-05348ddef6bbf0d89",
+            "eu-north-1": "ami-0910b7130dfcc6dbb",
+            "eu-south-1": "ami-016afe6a5db9423e8",
+            "eu-west-1": "ami-010cfaa611ec43c80",
+            "eu-west-2": "ami-09f865dcee11de6f4",
+            "eu-west-3": "ami-0b31d24b66fa164e6",
+            "sa-east-1": "ami-0a4aa5e3f037eaf6f",
+            "us-east-1": "ami-0695b3727f375ac57",
+            "us-east-2": "ami-07f9633fe8219caef",
+            "us-west-1": "ami-0d27f7c3bd5c5789b",
+            "us-west-2": "ami-0d393fae64f144c5f"
+          }
+        },
+        "os": "centos7",
+        "os_type": "redhat7",
+        "uuid": "d017d559-28b9-4bde-9e32-6a98bd329792",
+        "package-versions": {
+          "salt": "3000.8",
+          "salt-bootstrap": "0.13.4-2020-09-30T15:03:43"
+        }
+      }
+    ]
+  },
+  "versions": {
+    "freeipa": [
+      {
+        "images": [
+          "d017d559-28b9-4bde-9e32-6a98bd329792"
+        ],
+        "defaults": [],
+        "versions": [
+          "2.38.0-b102",
+          "2.41.0-b118"
+        ]
+      }
+    ]
+  }
+}
