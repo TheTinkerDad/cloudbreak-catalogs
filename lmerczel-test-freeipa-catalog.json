@@ -34,18 +34,50 @@
           "salt": "3000.8",
           "salt-bootstrap": "0.13.4-2020-09-30T15:03:43"
         }
-      }
+      },
+      {
+        "created": 1646402440,
+        "published": 1646405450,
+        "date": "2022-03-04",
+        "description": "Official Cloudbreak image",
+        "images": {
+          "azure": {
+            "France Central": "https://sharedimagesadev.blob.core.windows.net/images/freeipa-cdh--1646887125.vhd?se=2030-05-29T20%3A01%3A46Z&sp=rw&sv=2018-11-09&sr=b&sig=dvZlc5S2aqIWSFF7N0gdIV43hd%2ByAdc%2F%2BUeRRdoXs4k%3D",
+            "Germany West Central": "https://sharedimagesadev.blob.core.windows.net/images/freeipa-cdh--1646887125.vhd?se=2030-05-29T20%3A01%3A46Z&sp=rw&sv=2018-11-09&sr=b&sig=dvZlc5S2aqIWSFF7N0gdIV43hd%2ByAdc%2F%2BUeRRdoXs4k%3D",
+            "UK South": "https://sharedimagesadev.blob.core.windows.net/images/freeipa-cdh--1646887125.vhd?se=2030-05-29T20%3A01%3A46Z&sp=rw&sv=2018-11-09&sr=b&sig=dvZlc5S2aqIWSFF7N0gdIV43hd%2ByAdc%2F%2BUeRRdoXs4k%3D",
+            "UK West": "https://sharedimagesadev.blob.core.windows.net/images/freeipa-cdh--1646887125.vhd?se=2030-05-29T20%3A01%3A46Z&sp=rw&sv=2018-11-09&sr=b&sig=dvZlc5S2aqIWSFF7N0gdIV43hd%2ByAdc%2F%2BUeRRdoXs4k%3D",
+            "West Central US": "https://sharedimagesadev.blob.core.windows.net/images/freeipa-cdh--1646887125.vhd?se=2030-05-29T20%3A01%3A46Z&sp=rw&sv=2018-11-09&sr=b&sig=dvZlc5S2aqIWSFF7N0gdIV43hd%2ByAdc%2F%2BUeRRdoXs4k%3Dhttps://sharedimagesadev.blob.core.windows.net/images/freeipa-cdh--1646887125.vhd?se=2030-05-29T20%3A01%3A46Z&sp=rw&sv=2018-11-09&sr=b&sig=dvZlc5S2aqIWSFF7N0gdIV43hd%2ByAdc%2F%2BUeRRdoXs4k%3D",
+            "West Europe": "https://sharedimagesadev.blob.core.windows.net/images/freeipa-cdh--1646887125.vhd?se=2030-05-29T20%3A01%3A46Z&sp=rw&sv=2018-11-09&sr=b&sig=dvZlc5S2aqIWSFF7N0gdIV43hd%2ByAdc%2F%2BUeRRdoXs4k%3D",
+            "West US": "https://sharedimagesadev.blob.core.windows.net/images/freeipa-cdh--1646887125.vhd?se=2030-05-29T20%3A01%3A46Z&sp=rw&sv=2018-11-09&sr=b&sig=dvZlc5S2aqIWSFF7N0gdIV43hd%2ByAdc%2F%2BUeRRdoXs4k%3D",
+            "West US 2": "https://sharedimagesadev.blob.core.windows.net/images/freeipa-cdh--1646887125.vhd?se=2030-05-29T20%3A01%3A46Z&sp=rw&sv=2018-11-09&sr=b&sig=dvZlc5S2aqIWSFF7N0gdIV43hd%2ByAdc%2F%2BUeRRdoXs4k%3D"
+          }
+        },
+        "os": "centos7",
+        "os_type": "redhat7",
+        "uuid": "11111111-2222-3333-4444-555555555555",
+        "package-versions": {
+          "cdp-logging-agent": "0.2.16",
+          "cdp-telemetry": "0.4.23",
+          "cloudbreak_images": "acbf424",
+          "freeipa-health-agent": "0.1-20210517150203gitab017e0",
+          "freeipa-plugin": "1.0-20200319002729gitc964030",
+          "inverting-proxy-agent": "2.0.7-b1",
+          "inverting-proxy-agent_gbn": "19813655",
+          "salt": "3000.8",
+          "salt-bootstrap": "0.13.5-2021-10-27T13:19:36"
+        }
+      }      
     ]
   },
   "versions": {
     "freeipa": [
       {
         "images": [
-          "d017d559-28b9-4bde-9e32-6a98bd329792"
+          "d017d559-28b9-4bde-9e32-6a98bd329792",
+          "11111111-2222-3333-4444-555555555555"
         ],
         "defaults": [],
         "versions": [
-          "2.38.0-b102",
           "2.41.0-b118"
         ]
       }
