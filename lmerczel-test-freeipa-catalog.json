@@ -52,7 +52,7 @@
             "West US 2": "https://sharedimagesadev.blob.core.windows.net/images/freeipa-cdh--1646887125.vhd?se=2030-05-29T20%3A01%3A46Z&sp=rw&sv=2018-11-09&sr=b&sig=dvZlc5S2aqIWSFF7N0gdIV43hd%2ByAdc%2F%2BUeRRdoXs4k%3D"
           }
         },
-        "os": "centos7",
+        "os": "redhat7",
         "os_type": "redhat7",
         "uuid": "11111111-2222-3333-4444-555555555555",
         "package-versions": {
