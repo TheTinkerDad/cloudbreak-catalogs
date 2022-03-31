@@ -42,14 +42,14 @@
         "description": "Official Cloudbreak image",
         "images": {
           "azure": {
-            "France Central": "https://sharedimagesadev.blob.core.windows.net/images/freeipa-cdh--1646887125.vhd?se=2030-05-29T20%3A01%3A46Z&sp=rw&sv=2018-11-09&sr=b&sig=dvZlc5S2aqIWSFF7N0gdIV43hd%2ByAdc%2F%2BUeRRdoXs4k%3D",
-            "Germany West Central": "https://sharedimagesadev.blob.core.windows.net/images/freeipa-cdh--1646887125.vhd?se=2030-05-29T20%3A01%3A46Z&sp=rw&sv=2018-11-09&sr=b&sig=dvZlc5S2aqIWSFF7N0gdIV43hd%2ByAdc%2F%2BUeRRdoXs4k%3D",
-            "UK South": "https://sharedimagesadev.blob.core.windows.net/images/freeipa-cdh--1646887125.vhd?se=2030-05-29T20%3A01%3A46Z&sp=rw&sv=2018-11-09&sr=b&sig=dvZlc5S2aqIWSFF7N0gdIV43hd%2ByAdc%2F%2BUeRRdoXs4k%3D",
-            "UK West": "https://sharedimagesadev.blob.core.windows.net/images/freeipa-cdh--1646887125.vhd?se=2030-05-29T20%3A01%3A46Z&sp=rw&sv=2018-11-09&sr=b&sig=dvZlc5S2aqIWSFF7N0gdIV43hd%2ByAdc%2F%2BUeRRdoXs4k%3D",
-            "West Central US": "https://sharedimagesadev.blob.core.windows.net/images/freeipa-cdh--1646887125.vhd?se=2030-05-29T20%3A01%3A46Z&sp=rw&sv=2018-11-09&sr=b&sig=dvZlc5S2aqIWSFF7N0gdIV43hd%2ByAdc%2F%2BUeRRdoXs4k%3Dhttps://sharedimagesadev.blob.core.windows.net/images/freeipa-cdh--1646887125.vhd?se=2030-05-29T20%3A01%3A46Z&sp=rw&sv=2018-11-09&sr=b&sig=dvZlc5S2aqIWSFF7N0gdIV43hd%2ByAdc%2F%2BUeRRdoXs4k%3D",
-            "West Europe": "https://sharedimagesadev.blob.core.windows.net/images/freeipa-cdh--1646887125.vhd?se=2030-05-29T20%3A01%3A46Z&sp=rw&sv=2018-11-09&sr=b&sig=dvZlc5S2aqIWSFF7N0gdIV43hd%2ByAdc%2F%2BUeRRdoXs4k%3D",
-            "West US": "https://sharedimagesadev.blob.core.windows.net/images/freeipa-cdh--1646887125.vhd?se=2030-05-29T20%3A01%3A46Z&sp=rw&sv=2018-11-09&sr=b&sig=dvZlc5S2aqIWSFF7N0gdIV43hd%2ByAdc%2F%2BUeRRdoXs4k%3D",
-            "West US 2": "https://sharedimagesadev.blob.core.windows.net/images/freeipa-cdh--1646887125.vhd?se=2030-05-29T20%3A01%3A46Z&sp=rw&sv=2018-11-09&sr=b&sig=dvZlc5S2aqIWSFF7N0gdIV43hd%2ByAdc%2F%2BUeRRdoXs4k%3D"
+            "France Central": "https://sharedimagesadev.blob.core.windows.net/images/freeipa-cdh--1646887125.vhd",
+            "Germany West Central": "https://sharedimagesadev.blob.core.windows.net/images/freeipa-cdh--1646887125.vhd",
+            "UK South": "https://sharedimagesadev.blob.core.windows.net/images/freeipa-cdh--1646887125.vhd",
+            "UK West": "https://sharedimagesadev.blob.core.windows.net/images/freeipa-cdh--1646887125.vhd",
+            "West Central US": "https://sharedimagesadev.blob.core.windows.net/images/freeipa-cdh--1646887125.vhd",
+            "West Europe": "https://sharedimagesadev.blob.core.windows.net/images/freeipa-cdh--1646887125.vhd",
+            "West US": "https://sharedimagesadev.blob.core.windows.net/images/freeipa-cdh--1646887125.vhd",
+            "West US 2": "https://sharedimagesadev.blob.core.windows.net/images/freeipa-cdh--1646887125.vhd"
           }
         },
         "os": "redhat7",
